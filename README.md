@@ -1,3 +1,3 @@
-# Build a chart example
+# Build a Helm chart example
 
-Use this small chart to create your own nginx web server!
+Getting started with Helm building a chart to create a nginx web server!
